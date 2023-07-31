@@ -1,6 +1,8 @@
 // 14 - Enums
 
-// Bisa diimplementasi pakai const 1 per 1, tapi kita bisa pakai cara simple dengan enum
+// Tipe Data ENUM memungkinkan kita untuk mendefinisikan nilai data yang akan digunakan ketika penginputan data,
+// sehingga ketika ada value yang tidak sesuai dengan nilai yang sudah didefinisikan sebelumnya, maka akan menghasilkan error.
+// Di tipe data ini, kita hanya bisa memilih satu value saja.
 
 // const AISLE = 0;
 // const MIDDLE = 1;
